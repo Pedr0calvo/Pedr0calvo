@@ -6,6 +6,7 @@ JavaScript, React, Redux, Node, Express, Sequelize, PostgreSQL, CSS, Git, HTML a
 
 You can contact me here:
 Email -> pedro7calvo@gmail.com
+
 Linkedin -> https://www.linkedin.com/in/pedro-calvo/
 
 <!--

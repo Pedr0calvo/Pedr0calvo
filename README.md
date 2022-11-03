@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Peter I'm twenty-two years old and I'm a full-stack developer. 
+My name is Peter I'm twenty-three years old and I'm a full-stack developer. 
 
 JavaScript, React, Redux, Node, Express, Sequelize, PostgreSQL, CSS, Git, HTML are some technologies which I work it.
 
